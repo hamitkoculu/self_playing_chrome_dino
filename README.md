@@ -1,3 +1,5 @@
+Self Playing Chrome Dino Game
+
 1) Run this command for requirements.
 
     $pip install -r requirements.txt 
