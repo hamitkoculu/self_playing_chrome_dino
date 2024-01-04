@@ -1,4 +1,4 @@
-Self Playing Chrome Dino Game 
+Self Playing Chrome Dino Game  
 
 1) Run this command for requirements.
 
