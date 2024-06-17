@@ -10,7 +10,7 @@ def get_pixel(image, x, y):
 
 def start():
     # set size of the image to be taken
-    x, y, width, height = 0, 102, 1920, 872
+    x, y, width, height = 0, 121, 1920, 872
 
     # calculating time
     jumping_time = 0
@@ -19,8 +19,8 @@ def start():
     last_interval_time = 0
 
     # interval for bot to find obstacles
-    y_search1, y_search2, x_start, x_end = 557, 486, 405, 410
-    y_search_for_bird = 470
+    y_search1, y_search2, x_start, x_end = 557, 498, 240, 405
+    y_search_for_bird = 498
 
     # after the program is executed
     time.sleep(3)
